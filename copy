@@ -1,0 +1,2 @@
+#!/bin/bash
+cp -rfv scala-dist/tool-support/src/vim/* ./
